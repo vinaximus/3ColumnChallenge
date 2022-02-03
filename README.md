@@ -13,7 +13,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 
 ## Overview
-I tried my best to complete my challenge to 100%, however I did not manage to get the rounded corners perfectly ):. Also there is something wrong with the mobile size screen
+I tried my best to complete my challenge to 100%, with hover status also,  however I did not manage to get the rounded corners perfectly ):. Also there is something wrong with the mobile size screen
 
 ### The challenge
 
