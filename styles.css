@@ -1,0 +1,103 @@
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    color:hsla(0, 0%, 100%, 0.75);
+}
+
+p {
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsl(0, 0%, 95%);
+    margin-top:25px;
+    margin-bottom:130px;
+}
+ .container {
+    max-width:825px;
+    margin:0 auto;
+    margin-top:100px;
+    
+}
+
+
+
+
+
+.container-card {
+    background-color: coral;
+    width:275px;
+    height: 515px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top:40px;
+    border-radius: 20px;
+    
+
+}
+
+.card-orange {
+    background-color: hsl(31, 77%, 52%);
+}
+
+.card-blue {
+    background:hsl(184, 100%, 22%);
+}
+
+.card-green {
+    background-color: hsl(179, 100%, 13%);
+}
+
+.card-green p {
+    /* Since the <p> in this is one line more in height, margin has been reduced */
+    margin-bottom: 105px; 
+}
+
+.container-card-icon {
+    margin: 5px;
+    margin-bottom: 30px; 
+
+}
+
+.container-card-button {
+    border:1px solid;
+    border-radius:25px;
+    border-style: none;
+    width: 150px;
+    height:40px;
+    background-color:white;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.card-button-orange {
+    color:hsl(31, 77%, 52%);
+
+}
+
+.card-button-orange:hover {
+    background-color: hsl(31, 77%, 52%);
+    border-color: white;
+    border-style:solid;
+    color:white;
+}
+
+.card-button-blue {
+    color:hsl(184, 100%, 22%);
+
+}
+
+.card-button-blue:hover {
+    background-color: hsl(184, 100%, 22%);
+    border-color: white;
+    border-style:solid;
+    color:white;
+}
+
+.card-button-green {
+    color:hsl(179, 100%, 13%);
+
+}
+
+.card-button-green:hover {
+    background-color: hsl(179, 100%, 13%);
+    border-color: white;
+    border-style:solid;
+    color:white;
+}
